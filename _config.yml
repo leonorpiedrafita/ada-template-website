@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: ADA Template Website Changed
 description: A template website for ADA Changed by Leonor
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
